@@ -1,8 +1,20 @@
-## Available Scripts
+# Reminder App (UI)
 
-In the project directory, you can run:
+A web App that loads the contents for a given search string from News Org Apis. It Has a filtering method and also initially renders top news from News Org Api
 
-### `npm start`
+## Technologies used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) 
+- React.js
+- JavaScript
+- HTML/CSS
+- NPM
+
+## Build Setup
+
+``` bash
+# install dependencies
+$ npm install
+
+# launch server (localhost:3000)
+$ npm start
+```
