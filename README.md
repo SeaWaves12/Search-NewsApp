@@ -1,4 +1,4 @@
-# Reminder App (UI)
+# NewsApp
 
 A web App that loads the contents for a given search string from News Org Apis. It Has a filtering method and also initially renders top news from News Org Api
 
