@@ -17,9 +17,10 @@ const posts = (props) =>{
             <h2>
                 { props.title } 
             </h2>
-            <div>
+            <h4>
                 { props.description }
-            </div>
+            </h4>
+            <h6>Author:{ props.author }</h6>
         </div>
     );
 };
